@@ -1,3 +1,48 @@
+# Activity Listing
+
+A modern web application built with React and FastAPI for managing and organizing activities. This application provides a user-friendly interface to create, view, and manage various activities.
+
+## Features
+
+- Create and manage activities
+- Modern and responsive UI
+- Fast and efficient performance
+- Built with React and FastAPI
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+- ESLint for code quality
+- FastAPI
+
+## Development
+
+This project uses Vite for fast development with features like:
+
+- Hot Module Replacement (HMR)
+- Fast Refresh
+- Optimized builds
+
+For production builds, run:
+
+```bash
+npm run build
+```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
